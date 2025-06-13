@@ -1,5 +1,13 @@
+
+###
+
 # 💫 About Me:
-### 👋 Hi there! I'm a Web Developer at **49 Frames**  <br>🚀 Passionate about crafting clean, responsive, and impactful web experiences.  <br>🎯 Turning bold ideas into reality — one frame at a time.  <br>💻 Focused on modern frontend technologies, performance, and UI/UX.  <br>📍 Based at [49 Frames](#) — where design meets functionality.<br>
+<img align="right" height="171" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh6ZTVodHdsb2VvN2pxMHN5a2FvYXp0bnI3bzU5OXB0dDJ0MHU3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Gega4CrLAH51iKnTdn/giphy.gif"  />
+
+###
+
+### 👋 Hi there! I'm a Web Developer at **49 Frames**  <br>🚀 Passionate about crafting clean, responsive, and impactful web experiences.  <br>🎯 Turning bold ideas into reality — one frame at a time.  <br>💻 Focused on modern frontend technologies, performance, and UI/UX.  <br>📍 Based at [49 Frames](#) — where design meets functionality.
+<br>
 
 
 # 💻 Tech Stack:
@@ -7,20 +15,24 @@
 
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=luffythecap&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)<br/>
 <img align="right" height="184" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlzODc5Y2dzdW80ZG90ZmRpdW16ODljbDJwa25nMDRyYmRuYm1xZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EmXcVvHAgLTWyOSItd/giphy.gif"  />
 
 ###
 ![](https://nirzak-streak-stats.vercel.app/?user=luffythecap&theme=rose_pine&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luffythecap&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<img align="left" height="104" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDYzMGc4YjUybDE1cnc1bW5paGZicWZscDE3ZzJmbzcyMHV4eW1qcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rdQNz4dutSII8/giphy.gif"  />
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luffythecap&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <br><br/>
-<br><br/>
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
+
 ![](https://github-profile-trophy.vercel.app/?username=luffythecap&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
+<img align="left" height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDYzMGc4YjUybDE1cnc1bW5paGZicWZscDE3ZzJmbzcyMHV4eW1qcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rdQNz4dutSII8/giphy.gif"  />
+
+###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
