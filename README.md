@@ -12,6 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=luffythecap&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luffythecap&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlzODc5Y2dzdW80ZG90ZmRpdW16ODljbDJwa25nMDRyYmRuYm1xZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EmXcVvHAgLTWyOSItd/giphy.gif"  />
+
+###
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
