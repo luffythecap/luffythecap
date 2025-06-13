@@ -13,7 +13,7 @@
 ###
 ![](https://nirzak-streak-stats.vercel.app/?user=luffythecap&theme=rose_pine&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luffythecap&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<img align="left" height="166" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDYzMGc4YjUybDE1cnc1bW5paGZicWZscDE3ZzJmbzcyMHV4eW1qcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rdQNz4dutSII8/giphy.gif"  />
+<img align="left" height="104" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDYzMGc4YjUybDE1cnc1bW5paGZicWZscDE3ZzJmbzcyMHV4eW1qcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rdQNz4dutSII8/giphy.gif"  />
 
 
 ###
