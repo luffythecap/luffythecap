@@ -1,12 +1,11 @@
-
-###
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&color=9A0000&width=473&height=84&lines=Hi+i+am+aditya+pal" alt="Typing SVG" /></a>
+<br></br>
 # 💫 About Me:
 
 
 ###
 
-### 👋 Hi there! I'm a Web Developer at **49 Frames** 
+### 👋 Hi there! I'm aditya pal  Web Developer from **49 Frames** 
 <img align="right" height="171" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh6ZTVodHdsb2VvN2pxMHN5a2FvYXp0bnI3bzU5OXB0dDJ0MHU3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Gega4CrLAH51iKnTdn/giphy.gif"  />
 
 ###
