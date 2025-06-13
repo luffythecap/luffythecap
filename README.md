@@ -8,7 +8,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luffythecap&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)<br/>
-<img align="right" height="277" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlzODc5Y2dzdW80ZG90ZmRpdW16ODljbDJwa25nMDRyYmRuYm1xZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EmXcVvHAgLTWyOSItd/giphy.gif"  />
+<img align="right" height="228" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlzODc5Y2dzdW80ZG90ZmRpdW16ODljbDJwa25nMDRyYmRuYm1xZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EmXcVvHAgLTWyOSItd/giphy.gif"  />
 
 ###
 ![](https://nirzak-streak-stats.vercel.app/?user=luffythecap&theme=rose_pine&hide_border=true)
