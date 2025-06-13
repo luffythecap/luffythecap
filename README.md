@@ -2,11 +2,15 @@
 ###
 
 # 💫 About Me:
-<img align="right" height="171" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh6ZTVodHdsb2VvN2pxMHN5a2FvYXp0bnI3bzU5OXB0dDJ0MHU3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Gega4CrLAH51iKnTdn/giphy.gif"  />
+
 
 ###
 
-### 👋 Hi there! I'm a Web Developer at **49 Frames**  <br>🚀 Passionate about crafting clean, responsive, and impactful web experiences.  <br>🎯 Turning bold ideas into reality — one frame at a time.  <br>💻 Focused on modern frontend technologies, performance, and UI/UX.  <br>📍 Based at [49 Frames](#) — where design meets functionality.
+### 👋 Hi there! I'm a Web Developer at **49 Frames** 
+<img align="right" height="171" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh6ZTVodHdsb2VvN2pxMHN5a2FvYXp0bnI3bzU5OXB0dDJ0MHU3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Gega4CrLAH51iKnTdn/giphy.gif"  />
+
+###
+ <br>🚀 Passionate about crafting clean, responsive, and impactful web experiences.  <br>🎯 Turning bold ideas into reality — one frame at a time.  <br>💻 Focused on modern frontend technologies, performance, and UI/UX.  <br>📍 Based at [49 Frames](https://49frames.com/https://49frames.com/) — where design meets functionality.
 <br>
 
 
