@@ -15,8 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luffythecap&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <img align="left" height="104" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDYzMGc4YjUybDE1cnc1bW5paGZicWZscDE3ZzJmbzcyMHV4eW1qcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rdQNz4dutSII8/giphy.gif"  />
 
-
-###
+<br><br/>
+<br><br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=luffythecap&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
