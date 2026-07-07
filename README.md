@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-### 👋 Hi there! I'm aditya pal  Web Developer from **49 Frames** 
+### 👋 Hi there! I'm aditya pal  Web Developer from  
 <img align="right" height="171" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh6ZTVodHdsb2VvN2pxMHN5a2FvYXp0bnI3bzU5OXB0dDJ0MHU3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Gega4CrLAH51iKnTdn/giphy.gif"  />
 
 ###
